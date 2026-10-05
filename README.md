@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Parth Pulekar
 
-**Data Scientist | Agentic AI/ML | Finance Educator | Freelancer**
+**Data Scientist | Building Agentic AI/ML | Finance Educator | Freelancer**
 
 Building AI-driven systems and cybersecurity tools that run locally — no data leakage, no dependencies, just open-source power.
 
